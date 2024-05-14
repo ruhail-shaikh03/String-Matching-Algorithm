@@ -51,21 +51,6 @@ nums = {ingredient1, ingredient2, ingredient3, ...}
    ```
 5. The result will be printed on the console, indicating whether it is possible to prepare all dishes with disjoint subarrays from `nums`.
 
-## Example
-
-Given `p1_input.txt` with the following content:
-
-```cpp
-groups = [
-    {1, 2, 3},
-    {3, 4},
-    {5}
-]
-
-nums = {1, 2, 3, 3, 4, 5}
-```
-
-The program will output `True` if it's possible to find disjoint subarrays in `nums` that match the ingredient lists in `groups`.
 
 ## Time Complexity
 
