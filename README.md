@@ -1,8 +1,4 @@
 # String-Matching-Algorithm
-Understood, here is the README.md file with the appropriate adjustments for a C++ project:
-
----
-
 # Ingredient Check Program
 
 ## Overview
