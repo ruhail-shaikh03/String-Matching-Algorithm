@@ -1,4 +1,4 @@
-# String-Matching-Algorithm
+
 # Ingredient Check Program
 
 ## Overview
